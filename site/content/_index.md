@@ -1,17 +1,10 @@
 ---
 title: flipe
 subtitle: Noticias flipantes
-image: img/icons-instagram.svg
+image: 
 blurb:
-  text: "     &"
-  heading: Actuales
+  text: ""
+  heading: 
 intro:
-  text: '"'
+  text: '<meta http-equiv="refresh" content="7; url='https://flipe.netlify.app/post/'" />'
   heading: /
-products:
-  - text: Blog
-    image: img/blog-chemex.jpg
-values:
-  heading: Flipo!!
-  text: " '"
----
